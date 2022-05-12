@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# ToDoList - Structure
+# To-do list Project
 
 > In this project, you will see a simple HTML list of "To Do tasks". This simple web page was built using webpack and served by a webpack dev server.
 
@@ -15,7 +15,7 @@
 ### Install
 
 Clone the repository
-https://github.com/Richez003/TODoList
+https://github.com/ppmarq1/To-do-List.git
 npm . init -y
 npm install
 
@@ -32,17 +32,17 @@ npx eslint .
 
 👤 ## Author
 
-👤 **Richard Friday**
+👤 **Pedro Marques**
 
-- GitHub: [@Richez003](https://github.com/Richez003)
-- Twitter: [@richardfriday14](https://twitter.com/richardfriday14)
-- LinkedIn: [@LinkedIn](https://www.linkedin.com/in/richard-friday-54980718a)
-- 
+- GitHub: https://github.com/ppmarq1
+- Twitter: https://twitter.com/ppmarq1
+- LinkedIn: https://br.linkedin.com/in/pedroalmeidamarques/
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Richez003/TODoList/issues).
+Feel free to check the [issues page](https://github.com/ppmarq1/To-do-List/issues).
 
 ## Show your support
 
