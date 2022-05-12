@@ -15,7 +15,7 @@
 ### Install
 
 Clone the repository
-https://github.com/ppmarq1/To-do-List.git
+https://github.com/Richez003/TODoList
 npm . init -y
 npm install
 
