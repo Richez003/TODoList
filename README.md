@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# To-do list Project
+# To Do List App
 
 > In this project, you will see a simple HTML list of "To Do tasks". This simple web page was built using webpack and served by a webpack dev server.
 
@@ -15,7 +15,7 @@
 ### Install
 
 Clone the repository
-https://github.com/ppmarq1/To-do-List.git
+https://github.com/Richez003/TODoList
 npm . init -y
 npm install
 
@@ -32,17 +32,17 @@ npx eslint .
 
 👤 ## Author
 
-👤 **Pedro Marques**
+👤 **Richard Friday**
 
-- GitHub: https://github.com/ppmarq1
-- Twitter: https://twitter.com/ppmarq1
-- LinkedIn: https://br.linkedin.com/in/pedroalmeidamarques/
+- GitHub: [@Richez003](https://github.com/Richez003)
+- Twitter: [@richardfriday14](https://twitter.com/richardfriday14)
+- LinkedIn: [@LinkedIn](https://www.linkedin.com/in/richard-friday-54980718a)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/ppmarq1/To-do-List/issues).
+Feel free to check the [issues page](https://github.com/Richez003/TODoList/issues).
 
 ## Show your support
 
