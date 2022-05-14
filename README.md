@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# To Do List App
+# ToDoList - Structure
 
 > In this project, you will see a simple HTML list of "To Do tasks". This simple web page was built using webpack and served by a webpack dev server.
 
@@ -37,7 +37,7 @@ npx eslint .
 - GitHub: [@Richez003](https://github.com/Richez003)
 - Twitter: [@richardfriday14](https://twitter.com/richardfriday14)
 - LinkedIn: [@LinkedIn](https://www.linkedin.com/in/richard-friday-54980718a)
-
+- 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
