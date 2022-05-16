@@ -12,6 +12,9 @@
 - JavaScript / ES6
 - Webpack
 
+## live demo
+see live demo(https://graceful-daifuku-d4cc6b.netlify.app)
+
 ### Install
 
 Clone the repository
